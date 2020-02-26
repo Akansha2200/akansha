@@ -1,2 +1,5 @@
 hello everyone
+<<<<<<< HEAD
 hi i am there for u
+=======
+>>>>>>> 2264c941587f137a9641fdcef7834190892b7e82
